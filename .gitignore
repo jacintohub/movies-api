@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de cache
+.cache/
+.vscode/
+.DS_Store
+
+# Build
+build/
+dist/
+
+# Arquivos do sistema (geralmente em ambientes Unix e macOS)
+*.swp
+*.swo
